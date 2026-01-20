@@ -12,7 +12,9 @@ Hello, I am a second-year Ph.D. student in the School of Computer Science at Zhe
 
 Publications
 ======
-- NeurIPS 2024: Enhancing LLM Reasoning via Vision-Augmented Prompting
+- AAAI 2025 (Oral): DeepOR: A Deep Reasoning Foundation Model for Optimization Modeling
+- IJCAI 2025: A Survey of Optimization Modeling Meets LLMs: Progress and Future Directions
+- NeurIPS 2024 (Spotlight): Enhancing LLM Reasoning via Vision-Augmented Prompting
 - ICLR 2024: Chain-of-Experts: When LLMs Meet Complex Operations Research Problems
 - ICPP 2024: PREACT: Predictive Resource Allocation for Bursty Workloads in a Co-located Data Center
 - VLDB 2023: DoveDB: A Declarative and Low-Latency Video Database
